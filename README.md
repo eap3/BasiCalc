@@ -1,1 +1,1 @@
-BasiCalc is a application who simulates an calculator with the basic functions.x This application is part of a package of exercises on version management for Software Engineering and Systems - CIn / UFPE.
+BasiCalc is a application who simulates an calculator with the basic functions. This application is part of a package of exercises on version management for Software Engineering and Systems - CIn / UFPE.
